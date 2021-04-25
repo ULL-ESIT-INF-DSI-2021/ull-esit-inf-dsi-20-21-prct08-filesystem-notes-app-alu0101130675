@@ -1,6 +1,6 @@
 # Práctica 6 - Clases e interfaces genéricas. Principios SOLID
 ## Introducción
-En esta práctica haremos una  aplicación de notas de texto que manejaremos con el uso de comandos mendiante la terminal. La [explicacion](https://ull-esit-inf-dsi-2021.github.io/prct08-filesystem-notes-app/) de la aplicacion se explicaran a continuación
+En esta práctica haremos una  aplicación de notas de texto que utilizaremos introduciendo comandos mendiante la terminal. La [explicacion](https://ull-esit-inf-dsi-2021.github.io/prct08-filesystem-notes-app/) de la aplicación se explicaran a continuación
 ### Clase nota
 ~~~
 export class nota {
