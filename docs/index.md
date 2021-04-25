@@ -44,7 +44,7 @@ export class nota {
 }
 
 ~~~
-Lo primero que hemos realizado para realizar la aplicación es crear una clase nota con sus caracteristicas principales que son:titulo,cuerpo y color.
+Lo primero que hacemos para realizar la aplicación es crear una clase nota con sus caracteristicas principales que son:titulo,cuerpo y color.
 El resto de la clase se compone de getters de los atributos y un setter para el cuerpo por si quiere cambiar el mensaje
 ### Clase notaDb
 ~~~
