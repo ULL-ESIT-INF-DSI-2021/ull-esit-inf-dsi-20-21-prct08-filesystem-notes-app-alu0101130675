@@ -187,7 +187,7 @@ yargs.command({
           const manejador=new notaDb(note);
           manejador.addNote(argv.user);
           console.log(chalk.green('nota añadida'));
-        } else {
+        }  else {
           console.log(chalk.red('has introducido un color no disponible'));
         }
       }
