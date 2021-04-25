@@ -1,7 +1,8 @@
 {
   "entryPoints": [
-    "./src/index.ts"
-    
+    "./src/index.ts",
+    "./src/nota.ts",
+    "./src/notaDb.ts"    
   ],
-  "out": "./docs"
+  "out":"./documents"
 }
