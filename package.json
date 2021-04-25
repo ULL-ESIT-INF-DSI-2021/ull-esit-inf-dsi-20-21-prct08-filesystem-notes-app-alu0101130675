@@ -7,7 +7,7 @@
     "test": "nyc mocha",
     "coverage": "nyc npm test && nyc report --reporter=lcov",
     "start": "tsc-watch --onSuccess \"node dist/index.js\"",
-    "doc": "typedoc; touch ./docs/.nojekyll"
+    "doc": "typedoc; touch ./documents/.nojekyll"
   },
   "keywords": [],
   "author": "",
