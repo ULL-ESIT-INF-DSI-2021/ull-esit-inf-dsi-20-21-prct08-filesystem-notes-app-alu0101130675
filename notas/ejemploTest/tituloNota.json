@@ -1,0 +1,9 @@
+{
+  "usuario": [
+    {
+      "titulo": "tituloNota",
+      "body": "Esta es mi primera nota",
+      "color": "yellow"
+    }
+  ]
+}
